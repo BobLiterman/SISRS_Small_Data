@@ -1,0 +1,4 @@
+(1) sisrs alignContigs -p 20 -a premade -c 0 &> alignContigs_Log
+(2) sisrs identifyFixedSites -p 20 -a premade -c 0 &> identifyFixedSites_Log
+(3) sisrs outputAlignment -p 20 -a premade -c 0 &> outputAlignment_Log
+(4) sisrs changeMissing -p 20 -a premade -c 0 -m 0 &> changeMissing0_Log

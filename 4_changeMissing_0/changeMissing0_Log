@@ -1,0 +1,6 @@
+Note: SISRS writing into data folder
+**** SISRS ****
+===Running Subcommand changeMissing Alone===
+With 0 taxa allowed to be missing, 11644 sites from alignment.nex (6 allowed missing) are reduced to 7764 sites (3880 sites or 33.32% lost)
+With 0 taxa allowed to be missing, 6516 sites from alignment_pi.nex (6 allowed missing) are reduced to 4800 sites (1716 sites or 26.34% lost)
+With 0 taxa allowed to be missing, 6334 sites from alignment_bi.nex (6 allowed missing) are reduced to 4670 sites (1664 sites or 26.27% lost)

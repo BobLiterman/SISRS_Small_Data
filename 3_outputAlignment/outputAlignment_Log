@@ -1,0 +1,15 @@
+Note: SISRS writing into data folder
+**** SISRS ****
+===Running Subcommand outputAlignment Alone===
+Reading data: GorGor
+Reading data: HomSap
+Reading data: HylMol
+Reading data: MacFas
+Reading data: MacMul
+Reading data: PanPan
+Reading data: PanTro
+Reading data: PonPyg
+11644 total variable sites (alignment.nex)
+5128 variable sites are singletons
+6334 total biallelic sites excluding singletons (alignment_bi.nex)
+6516 total variable sites excluding singletons (alignment_pi.nex)
